@@ -1,0 +1,6 @@
++-+ +-+ +-+ +-+ +-+   +-+ +-+ +-+ +-+ +-+ +-+   +-+ +-+ +-+ +-+
+|L| |e| |a| |r| |n|   |S| |p| |r| |i| |n| |g|   |B| |o| |o| |t|
++-+ +-+ +-+ +-+ +-+   +-+ +-+ +-+ +-+ +-+ +-+   +-+ +-+ +-+ +-+
+${application.formatted-version}
+${spring-boot.formatted-version}
+${spring.application.name}

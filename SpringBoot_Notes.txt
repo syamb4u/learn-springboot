@@ -1,0 +1,23 @@
+Best Practices for Better RESTful API
+https://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/
+
+Application Properties
+https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
+
+Http Patch - To do partial updates.
+https://github.com/countrogue/spring-http-patch-example
+
+Spring Boot Best Practices.
+https://www.e4developer.com/2018/08/06/spring-boot-best-practices/
+
+Repository:
+http://zetcode.com/springboot/repository/
+
+Multiple Micro Services:
+https://github.com/lijingyao/microservice_coffeeshop
+https://github.com/salaboy/shopping-app/blob/master/pom.xml (docker)
+https://github.com/venkataravuri/e-commerce-microservices-sample/ (docker/gradle)
+https://dzone.com/articles/microservices-communication-zuul-api-gateway-1
+
+Micro Services Patterns.
+https://microservices.io/patterns/microservices.html
