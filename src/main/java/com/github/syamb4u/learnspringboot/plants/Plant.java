@@ -8,6 +8,15 @@ import javax.persistence.Table;
 
 import lombok.Data;
 
+/**
+ * @author Syam
+ *
+ * Date Oct 22, 2018
+ *
+ * learn-springboot
+ *
+ */
+
 @Data
 @Entity
 @Table(name = "plants")

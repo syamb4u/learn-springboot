@@ -22,6 +22,15 @@ import org.springframework.http.HttpStatus;
 import com.github.syamb4u.learnspringboot.config.patch.json.Patch;
 import com.github.syamb4u.learnspringboot.config.patch.json.PatchRequestBody;
 
+/**
+ * @author Syam
+ *
+ * Date Oct 22, 2018
+ *
+ * learn-springboot
+ *
+ */
+
 @RestController
 @RequestMapping("/api/v1/plants")
 public class PlantController {

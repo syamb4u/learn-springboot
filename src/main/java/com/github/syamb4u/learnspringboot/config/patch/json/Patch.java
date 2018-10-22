@@ -8,6 +8,9 @@ import java.lang.annotation.Target;
 /**
  *
  * Created by socrates on 7/20/16.
+ * 
+ * https://github.com/countrogue/spring-http-patch-example
+ *
  */
 @Target({ElementType.METHOD, ElementType.TYPE})
 @Retention(RetentionPolicy.RUNTIME)

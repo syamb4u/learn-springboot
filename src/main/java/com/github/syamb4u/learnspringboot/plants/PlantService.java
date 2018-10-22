@@ -4,6 +4,14 @@ import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 
+/**
+ * @author Syam
+ *
+ * Date Oct 22, 2018
+ *
+ * learn-springboot
+ *
+ */
 public interface PlantService {
 	public Optional<Plant> fetchById(int id);
 
